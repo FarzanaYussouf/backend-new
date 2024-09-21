@@ -8,4 +8,12 @@ foodRouter.get("/food-detail/:id", foodDetail)
 foodRouter.put("/update-food/:id", updateFood)
 foodRouter.delete("/delete-food/:id", deleteFood)
 
+
+
+
+
+
+
+
+
 export default foodRouter;
